@@ -1,6 +1,6 @@
 # 📊 Data Science Job Market Analysis - Power BI Dashboard
 
-![Dashboard Preview](03_Screenshots/Home_Page.png)
+![Dashboard Preview](02_Screenshots/Home Page.png)
 
 ## 📌 Overview
 This project analyzes **9,556 job postings** in the Data Science field to provide insights into market demand, skill requirements, salary trends, and company hiring patterns. The interactive dashboard helps job seekers, HR professionals, and business leaders make data-driven decisions.
@@ -199,10 +199,8 @@ DIVIDE([CountofSkills], [CountJobPosting])
 ## 📂 Repository Structure
 
 ```
-├── 01_Dataset/          # Raw data and data dictionary
-├── 02_Dashboard/         # Power BI .pbix file
-├── 03_Screenshots/       # Dashboard images
-├── 04_Documentation/     # Detailed documentation
+├── 01_Documentation/     # Detailed documentation
+├── 02_Screenshots/       # Dashboard images
 └── README.md            # You are here
 ```
 
