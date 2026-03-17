@@ -26,7 +26,8 @@ This project analyzes **9,556 job postings** in the Data Science field to provid
 - What industries have the highest demand?
 - Where are the "sweet spots" for job seekers?
 
----
+---<img width="1448" height="813" alt="Home page" src="https://github.com/user-attachments/assets/f45734f0-57e0-45ba-8bba-fc5873bde6d2" />
+
 
 ## 🗃️ Data Structure
 
@@ -37,6 +38,8 @@ This project analyzes **9,556 job postings** in the Data Science field to provid
 - **7 company size categories**
 
 ### Star Schema Model
+
+<img width="887" height="781" alt="Schema" src="https://github.com/user-attachments/assets/5c2856a6-8777-4b4f-9103-16d79acd1c2d" />
 
 ```
 ┌─────────────────┐     ┌──────────────────┐
@@ -139,6 +142,8 @@ DIVIDE([CountofSkills], [CountJobPosting])
 
 ## 📈 Key Insights
 
+<img width="1440" height="807" alt="Insights   Trends" src="https://github.com/user-attachments/assets/b9fa1139-5227-4f29-8fa8-7dd873c3bbca" />
+
 ### 🔵 Jobs Page
 | Insight | Finding |
 |---------|---------|
@@ -146,6 +151,9 @@ DIVIDE([CountofSkills], [CountJobPosting])
 | **Top Role** | Data Engineer = 36.2% of posts, $134K avg salary |
 | **Career Paths** | DE/DS: 65% Mid-Senior \| DA/BA: 35% Associate |
 | **COVID Impact** | -15.7% Q1 2020 → +98.9% Q2 2020 |
+
+<img width="1437" height="805" alt="Jobs page" src="https://github.com/user-attachments/assets/920ea20d-2d11-4846-856c-5b805d421483" />
+
 
 ### 🟢 Skills Page
 | Rank | Skill | Demand | Category |
@@ -155,6 +163,9 @@ DIVIDE([CountofSkills], [CountJobPosting])
 | #3 | Cloud | 34.6% | Infrastructure |
 | #4 | AWS | 31.8% | Cloud Platform |
 | #5 | ML | 21.3% | Data Science |
+
+<img width="1443" height="805" alt="Skills Page" src="https://github.com/user-attachments/assets/4e1ec0de-0689-4522-83e7-5df3dc588303" />
+
 
 **Fastest Growing (2019-2021):**
 - Cloud (+100%)
@@ -170,6 +181,9 @@ DIVIDE([CountofSkills], [CountJobPosting])
 | **Highest Pay** | 51-200 employees | $133K avg |
 | **Top Industry** | Internet | 25% of posts, $139K |
 | **Top Company** | Toptal | 17.8% market share |
+
+<img width="1440" height="806" alt="Company Page" src="https://github.com/user-attachments/assets/2d169992-a771-428c-9a41-ab80fd86f513" />
+
 
 ---
 
